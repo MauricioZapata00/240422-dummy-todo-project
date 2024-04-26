@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { CustomForm } from '../components/forms'
+import { CustomForm } from '../../components/forms'
 
 const page = () => {
   return (
